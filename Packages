@@ -7,10 +7,11 @@ Architecture: iphoneos-arm
 Filename: ./debs/com.supermamon.newpackage_2.0.0-1_iphoneos-arm.deb
 Size: 854
 MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
-Description: https://imvexel.github.io/repo/depictions/?p=com.supermamon.newpackage
+Description: test
 Name: New Package
 Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://imvexel.github.io/repo/depictions/?p=com.supermamon.newpackage
+SileoDepiction: https://imvexel.github.io/repo/depictions/?p=com.supermamon.newpackage
+
 
 Package: com.supermamon.oldpackage
 Version: 1.0.0-1
@@ -24,5 +25,5 @@ MD5sum: 8c606f0c05217aa2a20949091fe516f0
 Description: This is a sample old package. Firmware should be lower than 7.0
 Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://i.github.io/repo/depictions/?p=com.supermamon.oldpackage
+SileoDepiction: https://i.github.io/repo/depictions/?p=com.supermamon.oldpackage
 
