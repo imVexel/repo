@@ -1,0 +1,14 @@
+Package: com.prism.anemone
+Version: 2.1.8-2
+Section: A12 Tweaks
+Maintainer: Prism <vexelomgg@gmail.com>
+Depends: firmware (>7.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/anemone_2.1.8-2.deb
+Size: 1857818
+SHA256: ea2200f6e0e93a1d5b7ee53bcbf46e5b6700a7706ecbf71842426df51a8ee6a0
+Description: Anemone 3 is the best theming engine for A12!
+Name: Anemone 3
+Author: AnemoneTeam <anemoneteam@gmail.com>
+Depiction: https://imvexel.github.io/repo/depictions/?p=com.prism.anemone
+
