@@ -1,6 +1,6 @@
 {
 	"minVersion": "0.1",
-	"headerImage": "https://github.com/imVexel/repo/blob/master/assets/Banners/arm64eSupported.png",
+	"headerImage": "https://raw.githubusercontent.com/imVexel/repo/master/assets/Banners/arm64eSupported.png",
 	"tintColor": "#3f4042",
 	"tabs": [
 		{
@@ -12,8 +12,8 @@
 					"screenshots": [
 						{
 							"accessibilityText": "Showcase",
-							"url": "https://github.com/imVexel/repo/blob/master/assets/Banners/arm64eSupported.png",
-							"fullSizeURL": "https://github.com/imVexel/repo/blob/master/assets/Banners/arm64eSupported.png"
+							"url": "https://raw.githubusercontent.com/imVexel/repo/master/assets/Banners/arm64eSupported.png",
+							"fullSizeURL": "https://raw.githubusercontent.com/imVexel/repo/master/assets/Banners/arm64eSupported.png"
 						}
 					],
 					"ipad": {
@@ -22,8 +22,8 @@
 						"screenshots": [
 							{
 								"accessibilityText": "Showcase",
-								"url": "https://github.com/imVexel/repo/blob/master/assets/Banners/arm64eSupported.png",
-								"fullSizeURL": "https://github.com/imVexel/repo/blob/master/assets/Banners/arm64eSupported.png"
+								"url": "https://raw.githubusercontent.com/imVexel/repo/master/assets/Banners/arm64eSupported.png",
+								"fullSizeURL": "https://raw.githubusercontent.com/imVexel/repo/master/assets/Banners/arm64eSupported.png"
 							}
 						],
 						"class": "DepictionScreenshotView"
