@@ -1,6 +1,6 @@
 {
 	"minVersion": "0.1",
-	"headerImage": "https://raw.githubusercontent.com/thestrugglingdoge/repo/gh-pages/assets/Banners/Darkify.png",
+	"headerImage": "https://raw.githubusercontent.com/thestrugglingdoge/repo/assets/Banners/arm64eSupported.png",
 	"tintColor": "#3f4042",
 	"tabs": [
 		{
@@ -35,8 +35,8 @@
 					"markdown": "## Anemone\nAnemone is the best theming engine for iOS 7 - 12.1.2! Making it possible to change your icons in 2 simple steps."
 				},
 				{
-					"title": "Suggest icons here!",
-					"action": "https://forms.gle/x38ZhSwcx3wreiUUA",
+					"title": "Follow me on Twitter!",
+					"action": "https://twitter.com/xSinsYT",
 					"class": "DepictionTableButtonView"
 				},
 				{
@@ -48,7 +48,7 @@
 				},
 				{
 					"title": "Version",
-					"text": "2.1.8-2",
+					"text": "3.0~beta7",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -62,13 +62,18 @@
 					"class": "DepictionTableTextView"
 				},
 				{
+					"title": "Updated",
+					"text": "February 23, 2019",
+					"class": "DepictionTableTextView"
+				},
+				{
 					"title": "Developer",
 					"text": "Anemone Team",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "Github",
-					"action": "https://github.com/StrugglingDoge",
+					"action": "https://github.com/imvexel",
 					"class": "DepictionTableButtonView"
 				},
 				{
